@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.startup
+package com.github.marko88.archknitter.startup
 
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
